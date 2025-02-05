@@ -8,14 +8,14 @@ package proyectonuevo;
  *
  * @author arturo.marsan
  */
-public class PROYECTOnUEVO {
+public class ProyectoNuevo {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
-	System.out.println("Hola Mundo");
+	System.out.println("Hola Arturo!!!!!!");
     }
     
 }
